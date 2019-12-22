@@ -8,8 +8,8 @@
   <name>E2EProject</name>
   <url>http://maven.apache.org</url>
   
-  
-
+	<!-- Test -->  
+	<!-- Test2 -->
   <build>
    <resources>
         <resource>
